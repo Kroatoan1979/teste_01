@@ -8,7 +8,7 @@
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
-    background-color: #83848a;
+    background-color: lightblue;
     color: #333;
     padding: 20px;
 }
@@ -67,7 +67,7 @@ h2 {
 }
 
 p {
-    font-size: 1.1rem;
+    font-size: 1rem;
     color: #555;
 }
 
