@@ -70,3 +70,10 @@ ___negrito + itálico___
 ### Checkbox
 - [ ] Tarefa incompleta
 - [x] Tarefa completa
+
+### 
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" with="50px"> 
+
+          
