@@ -35,6 +35,38 @@ ___negrito + itálico___
       1. lista numerada nivel 2
       2. lista numerada nivel 2
 
-### Imagens
+### links
 [Texto da imagem](https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg)
+
+### Imagem
+![Texto da imagem](https://img.freepik.com/free-vector/hand-coding-concept-illustration_114360-8193.jpg)
+
+### Blocos de código
+`print("hello world!")`
+
+```
+<nav>
+    <ul>
+    <li><a href="sobre.html">Sobre</a></li>
+    <li><a href="#servicos">Serviços</a></li>
+    <li><a href="contacto.html">Contacto</a></li>
+    </ul>
+</nav>
+```
+
+### Citações
+> Citações
+
+### Linha
+---
+
+### Tabela
+
+|Cabeçalho 1|Cabeçalho 2|
+|-----------|-----------|
+|texto 1    |texto A    |
+|texto 2    |texto B    |
+
+### Checkbox
+-[x]
 
