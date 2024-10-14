@@ -68,5 +68,5 @@ ___negrito + itálico___
 |texto 2    |texto B    |
 
 ### Checkbox
--[x]
-
+- [ ] Tarefa incompleta
+- [x] Tarefa completa
