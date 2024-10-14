@@ -6,9 +6,9 @@
 }
 
 body {
-    font-family: Arial, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     line-height: 1.6;
-    background-color: lightblue;
+    background-color: rgb(186, 192, 194);
     color: #333;
     padding: 20px;
 }
