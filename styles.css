@@ -8,7 +8,7 @@
 body {
   font-family: "Courier New", Courier, monospace;
   line-height: 1.6;
-  background-color: rgb(186, 192, 194);
+  background-color: lightgray;
   color: #333;
   padding: 20px;
 }
